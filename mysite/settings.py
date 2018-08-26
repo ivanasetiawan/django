@@ -25,7 +25,7 @@ SECRET_KEY = '6%059b5&s4*jsi%$3s=p40ioj1fq51q+iyb%b+82wj(d^h_&+z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'nerdonacid.pythonanywhere.com']
 
 
 # Application definition
